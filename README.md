@@ -10,4 +10,4 @@ I'm a junior at the University of South Florida pursuing a degree in Computer Sc
 
 ---
 
-Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
+
